@@ -1,0 +1,41 @@
+customer,state,gender,education,customer_lifetime_value,income,monthly_premium_auto,number_of_open_complaints,policy_type,vehicle_class,total_claim_amount
+OE15005,California,F,College,394524.16,28855.0,101.0,1/0/00,Personal Auto,SUV,647.442031
+TZ98966,Nevada,F,Bachelor,245019.1,0.0,73.0,1/3/00,Corporate Auto,Four-Door Car,554.376763
+US89481,California,F,Bachelor,394637.21,0.0,111.0,1/0/00,Personal Auto,Four-Door Car,799.2
+CM61827,Oregon,F,Bachelor,309003.41,0.0,90.0,1/0/00,Personal Auto,Two-Door Car,648.0
+IL19217,California,F,Bachelor,393900.64,60021.0,99.0,1/0/00,Personal Auto,Four-Door Car,882.871945
+FG63582,Oregon,F,Bachelor,333976.49,0.0,94.0,1/0/00,Personal Auto,Two-Door Car,863.327324
+MS41162,Arizona,F,High School or Below,402296.35,0.0,117.0,1/0/00,Personal Auto,SUV,975.107098
+DS81757,Oregon,M,College,247012.12,0.0,74.0,1/0/00,Personal Auto,Two-Door Car,721.242206
+KA61892,Arizona,M,College,387364.7,28142.0,105.0,1/0/00,Personal Auto,Sports Car,701.708239
+ND87334,California,M,High School or Below,228759.69,0.0,63.0,1/0/00,Corporate Auto,Two-Door Car,679.368378
+TS19868,California,M,College,241313.97,27501.0,63.0,1/0/00,Personal Auto,Four-Door Car,542.319401
+AB13432,California,M,Bachelor,373583.81,0.0,110.0,1/0/00,Personal Auto,SUV,792.0
+FL34139,California,M,High School or Below,368811.09,0.0,63.0,1/3/00,Personal Auto,Four-Door Car,669.682001
+IA63417,Arizona,F,High School or Below,400151.91,19782.0,108.0,1/0/00,Personal Auto,Two-Door Car,773.470977
+VZ51506,Arizona,F,High School or Below,359531.29,0.0,103.0,1/0/00,Corporate Auto,Sports Car,741.6
+OH60605,Oregon,F,High School or Below,365253.24,39679.0,92.0,1/0/00,Personal Auto,Two-Door Car,641.388616
+RR77985,Oregon,F,Bachelor,288774.23,0.0,80.0,1/0/00,Personal Auto,Four-Door Car,676.944023
+JF36291,California,M,College,387364.7,28142.0,105.0,1/0/00,Personal Auto,Sports Car,701.708239
+ZF84449,Oregon,F,College,372672.8,0.0,112.0,1/1/00,Special Auto,Sports Car,806.4
+NL93182,Nevada,M,Bachelor,254945.0,0.0,78.0,1/0/00,Corporate Auto,Four-Door Car,845.654042
+WE68644,Oregon,F,Bachelor,380392.18,20325.0,100.0,1/0/00,Personal Auto,Sports Car,668.29397
+AU96286,Oregon,F,Bachelor,316765.84,0.0,92.0,1/0/00,Corporate Auto,Four-Door Car,662.4
+FY51713,Arizona,F,Bachelor,357076.05,56168.0,88.0,1/0/00,Personal Auto,Four-Door Car,614.675906
+XN11823,Nevada,F,Bachelor,376446.51,92600.0,94.0,1/0/00,Corporate Auto,Two-Door Car,842.43785
+PX17116,Nevada,M,College,362345.42,0.0,111.0,1/2/00,Corporate Auto,SUV,1171.93117
+XS12556,California,F,College,368309.99,0.0,101.0,1/0/00,Corporate Auto,Sports Car,564.466556
+UK41984,Arizona,F,Doctor,383960.61,0.0,112.0,1/2/00,Personal Auto,SUV,537.6
+ZK21724,Oregon,F,High School or Below,401654.2,0.0,111.0,1/0/00,Personal Auto,SUV,799.2
+DM95829,California,M,College,252395.96,16244.0,68.0,1/0/00,Personal Auto,Two-Door Car,623.223617
+JA41698,Nevada,M,Bachelor,309953.8,0.0,102.0,1/5/00,Corporate Auto,SUV,862.762957
+ED50963,California,F,High School or Below,268886.4,32808.0,68.0,1/1/00,Personal Auto,Four-Door Car,541.695658
+NZ15548,Oregon,M,Bachelor,402381.44,41833.0,103.0,1/0/00,Personal Auto,Four-Door Car,643.826716
+TE13577,Oregon,F,College,231973.59,0.0,64.0,1/0/00,Personal Auto,Four-Door Car,632.715382
+TV25678,Washington,M,College,354090.43,0.0,101.0,1/0/00,Personal Auto,SUV,727.2
+KJ87930,California,F,Bachelor,388650.48,0.0,112.0,1/0/00,Corporate Auto,SUV,1185.988301
+XM72420,Arizona,F,High School or Below,391936.67,66676.0,97.0,1/0/00,Personal Auto,Four-Door Car,558.099357
+TD10493,Oregon,F,High School or Below,289873.27,0.0,96.0,1/4/00,Personal Auto,Four-Door Car,691.2
+OT52034,California,M,Bachelor,386477.68,24204.0,99.0,1/1/00,Personal Auto,Four-Door Car,707.303416
+UI73201,California,M,College,366737.5,62375.0,92.0,1/0/00,Personal Auto,Two-Door Car,618.630955
+GS98873,Arizona,F,Bachelor,323912.47,16061.0,88.0,1/0/00,Personal Auto,Four-Door Car,633.6
